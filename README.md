@@ -9,7 +9,7 @@ The **Open Systems Interconnection (OSI) Model** is one of the most fundamental 
 # 📚 Table of Contents
 
 - [What is the OSI Model?](#-what-is-the-osi-model)
-- [History of the OSI Model](#-history-of-the-osi-model)
+- [History of the OSI Model](#-History-of-the-OSI-Model)
 - [Why is the OSI Model Important?](#-why-is-the-osi-model-important)
 ## 📚 Table of Contents
 - [The Seven Layers of the OSI Model](#-the-seven-layers-of-the-osi-model)
