@@ -11,12 +11,16 @@ The **Open Systems Interconnection (OSI) Model** is one of the most fundamental 
 - [What is the OSI Model?](#-what-is-the-osi-model)
 - [History of the OSI Model](#-history-of-the-osi-model)
 - [Why is the OSI Model Important?](#-why-is-the-osi-model-important)
+## 📚 Table of Contents
 - [The Seven Layers of the OSI Model](#-the-seven-layers-of-the-osi-model)
-- [How Data Travels Through the OSI Model](#-how-data-travels-through-the-osi-model)
-- [Encapsulation and De-encapsulation](#-encapsulation-and-de-encapsulation)
-- [Memory Tricks](#-memory-tricks)
-- [Summary](#-summary)
-
+  - [Layer 7 – Application Layer](#layer-7--application-layer)
+  - [Layer 6 – Presentation Layer](#layer-6--presentation-layer)
+  - [Layer 5 – Session Layer](#layer-5--session-layer)
+  - [Layer 4 – Transport Layer](#layer-4--transport-layer)
+  - [Layer 3 – Network Layer](#layer-3--network-layer)
+  - [Layer 2 – Data Link Layer](#layer-2--data-link-layer)
+  - [Layer 1 – Physical Layer](#layer-1--physical-layer)
+- [OSI Layers Summary Table](#-osi-layers-summary-table)
 ---
 
 # 📖 What is the OSI Model?
