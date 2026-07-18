@@ -20,7 +20,7 @@ The **Open Systems Interconnection (OSI) Model** is one of the most fundamental 
   - [Layer 3 – Network Layer](#layer-3--network-layer)
   - [Layer 2 – Data Link Layer](#layer-2--data-link-layer)
   - [Layer 1 – Physical Layer](#layer-1--physical-layer)
-- [OSI Layers Summary Table](#-osi-layers-summary-table)
+- [OSI Layers Summary Table](#-Quick-Summary)
 ---
 
 # 📖 What is the OSI Model?
